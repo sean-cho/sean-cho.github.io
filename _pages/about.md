@@ -15,7 +15,7 @@ care.
 Specifically, I am interested in:
 
 1. Developing methods for integrative multi-omics analysis and visualization.
-2. Utilizing these methods to study disease processes and develop better
+2. Utilizing these methods to study disease processes and develop personalized therapy, including biomarkers and targeted therapies.
 
 Ideally, this research would be performed as part of an interdisciplinary team of experts,
 including experimental biologists, biostatisticians, and physicians.
