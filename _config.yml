@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Computational Biologist"
   location         : "Baltimore, MD"
-  employer         : "Johns Hopkins University School of Medicine"
+  employer         : "Johns Hopkins University"
   googlescholar    : "https://scholar.google.com/citations?user=RNYgmeYAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/seanswcho/"
+  linkedin         : "seanswcho"
   orcid            : "https://orcid.org/0000-0002-1637-2875"
   pinterest        :
   soundcloud       :

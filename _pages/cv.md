@@ -19,26 +19,15 @@ Education
 Skills
 ======
 * Programming
-  * R & Shiny
-  * Python
-  * Bash
-  * SQL
-  * Git & Github
-  * NGS pipelines
-    * CWL
-    * Snakemake
+  * R & Shiny; Python; Bash
+  * SQL; Git & Github
+  * CWL; Snakemake
 * Platforms
-  * Sun Grid Engine
-  * Slurm
-  * Amazon Web Services
-  * Seven Bridges Genomics
-  * Docker
+  * Sun Grid Engine; Slurm; Docker
+  * Amazon Web Services; Seven Bridges Genomics
 * Data analysis
-  * Biostatistics
-  * Microarray & NGS
-    * Genomics
-    * Epigenomics
-    * Transcriptomics
+  * Biostatistics; microarray & NGS;
+  * Genomics, epigenomics, transcriptomics
   * Machine learning
 
 Professional experience
