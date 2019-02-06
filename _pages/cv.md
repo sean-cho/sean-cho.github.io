@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a PDF version of my resume [here](/files/SCho_Resume.pdf).
+You can download a PDF version of my resume [here](/files/SCho_Resume_public.pdf).
 
 Education
 ======
@@ -74,11 +74,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks & Posters
+Invited Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
+* Epicopy: Measuring DNA copy number using Illumina 450K methylation microarrays (2014)
+  * Computational Genomics Symposium, Johns Hopkins Hospital
+
+Posters
+======
+
+* Characterization of metastatic follicular thyroid cancer by RNA-seq. (2016)
+  * American Thyroid Association Annual Meeting, Denver CO
+* Epicopy: Measuring DNA copy number variation using Illumina high density methylation microarrays. (2015)
+  * American Cancer Association Annual Meeting, Philadelphia PA
 
 Teaching
 ======
