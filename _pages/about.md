@@ -35,13 +35,14 @@ at Johns Hopkins University School of Medicine under the supervision of
 Drs. Saraswati Sukumar, Christopher Umbricht, and Leslie Cope.
 
 My dissertation focused on performing genomics studies from archival tissue
-samples. I developed methods for RNA/DNA extraction from formalin-fixed paraffin-embedded
-(FFPE) tissue. In collaboration with Illumina, Affymetrix, and core facilities in
-several institutions, we performed microarray analysis and RNA-sequencing of these
+samples in breast and thyroid cancer. I developed methods for RNA/DNA
+extraction from formalin-fixed paraffin-embedded (FFPE) tissue. In collaboration
+with Illumina, Affymetrix, and core facilities in several institutions, we
+performed microarray analysis and RNA-sequencing of these
 samples to (1) study the biology of disease, and (2) identify prognostic biomarkers.
-To maximize the amount of information from these samples, I developed the [Epicopy](https://github.com/sean-cho/Epicopy)
-R package that allows users to extract copy number variation information from
-raw methylation microarray data.
+To maximize the amount of information from these samples, I developed the
+[Epicopy](https://github.com/sean-cho/Epicopy) R package that allows users to
+extract copy number variation information from raw methylation microarray data.
 
 Prior to that, I had worked as a research associate with Dr. Michael Jensen at the
 [City of Hope](https://www.cityofhope.org/homepage) on chimeric antigen receptor
