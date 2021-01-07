@@ -22,11 +22,18 @@ Specifically, I am interested in:
 Ideally, this research would be performed as part of an interdisciplinary team of experts,
 including experimental biologists, biostatisticians, and physicians.
 
-Currently, I am a post-doctoral fellow at Kennedy Krieger Institute and Johns Hopkins
+Currently, I am a Bioinformatics Scientist at Arcus Biosciences, a biopharmaceutical company 
+focused on developing immuno-oncology therapies. Here I lead bioinformatics functions in various projects 
+to support drug development in multi-functional teams, from target discovery to translational research. On 
+the backend, I also develop computational frameworks and infrastructure to support efficient bioinformatics 
+work and effective communication to diverse teams in the company.
+
+
+Previously, I was a post-doctoral fellow at Kennedy Krieger Institute and Johns Hopkins
 University School of Medicine, working with
 [Dr. Jonathan Pevsner](http://pevsnerlab.kennedykrieger.org/php/index.php).
-My reseach focuses on identifying the role of [somatic mosaicism in behavioural and
-developmental disorders](http://brainsomaticmosaicism.org/), with specific
+Here, my reseach focused on identifying the role of [somatic mosaicism in behavioural 
+and developmental disorders](http://brainsomaticmosaicism.org/), with specific
 focus in bipolar disorder, through the use of next-generation sequencing (NGS)
 technologies.
 
