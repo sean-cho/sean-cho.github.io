@@ -32,7 +32,20 @@ Skills
 
 Professional experience
 ======
-* Post-doctoral Fellow (Dec 2016 - Current)
+* Bioinformatics Scientist (Jun 2020 - Current)
+  * Arcus Biosciences Inc
+  * Bioinformatics Department
+  * Broad bioinformatics functionalities to support data-driven drug discovery.
+    * Lead bioinformatics functions of early stage, preclinical immuno-oncology projects in multi-functional teams.
+    * Analyze Phase 1/2 clinical trial NGS data for biomarker discovery.
+    * Create data harmonization framework and internal database of over 8TB of -omics data to support drug discovery and translational decisions, such as hypothesis testing, model selection, and indication assessment.
+    * Develop analysis frameworks, computational methods, and software for -omics data analysis.
+    * Spearhead efforts for data-driven discovery of new drug targets using bioinformatics approaches.
+    * Design and implement infrastructure, NGS pipelines, and Shiny applications.
+    * Manage and mentor direct reports and interns to successful completion of several projects.
+    * Establish relationships with vendors for bioinformatics needs and NGS applications.
+
+* Post-doctoral Fellow (Dec 2016 - May 2019)
   * Kennedy Krieger Institute & Johns Hopkins University
   * PI: Dr. Jonathan Pevsner
   * Characterization of somatic mosaicism in neurobehavioral disorders
